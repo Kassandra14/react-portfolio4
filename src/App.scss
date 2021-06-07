@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+body {
+  background: url(/assets/turquoisewatercolor.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  background-color: #cfecda;
+  min-height: 100vh;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: bottom;
+  align-content: center;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(14, 13, 13);
+} 
+
+#aboutme {
+  height: 350px;
+  width: 330px;
+}
