@@ -15,6 +15,7 @@ This step not completed yet:
 
 ## Github Repo 
 
+https://github.com/Kassandra14/react-portfolio4/
 
 ## Deployed App
-https://github.com/Kassandra14/react-portfolio4/
+
